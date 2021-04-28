@@ -1,0 +1,4 @@
+!Lab 1. Git Repository
+
+Good idea!
+Lets continue!
